@@ -1,6 +1,6 @@
 # Memo
 An AI-powered voice assistant built with Speech-to-Text, Large Language Models, and Text-to-Speech for natural, real-time voice conversations.
-![Memo AI Assistant](images/project.jpeg)
+![Memo AI Assistant](image/project.jpeg)
 
 ## hardware components:
 -raspberry pi 5 (8 GB RAM)
@@ -10,7 +10,7 @@ An AI-powered voice assistant built with Speech-to-Text, Large Language Models, 
 -active fan/heatsink for raspberry pi
 -MicroSD 64GB
 
-![Memo AI Assistant](images/components.jpeg)
+![Memo AI Assistant](image/components.jpeg)
 
 
 ## Software Details
